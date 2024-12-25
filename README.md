@@ -11,6 +11,6 @@ press right arrow key to go right
 
 it might lack a lot of things like difficulty level, winning messages and a lot of stuff which i'll update later, i was just too excited to add another repository after so long so i did.
 
-hope you enjoy, feel free to gove me suggestions on this.
+hope you enjoy, feel free to give me suggestions on this.
 
 *if you wanna run this code make sure to add the background file too
