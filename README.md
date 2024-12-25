@@ -3,7 +3,9 @@ an easy to play brick breaker game with simple commands
 
 
 #controls
+
 press left arrow key to go left
+
 press right arrow key to go right
 
 
